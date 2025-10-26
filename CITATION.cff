@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "SEIR vs SEIRD: MATLAB comparison on synthetic COVID-like data"
+authors:
+  - family-names: "<Surname>"
+    given-names: "<First Name>"
+date-released: "2025-10-26"
+version: "1.0.0"
+repository-code: "https://github.com/<user>/seird-seir-comparison-matlab"
+license: "MIT"
