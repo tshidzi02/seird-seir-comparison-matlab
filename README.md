@@ -27,4 +27,4 @@ MIT — see LICENSE.
 
 ## Cite this work
 See CITATION.cff. A short form:
-> Mutshidzi Madzivhandila 24999709 (2025). SEIR vs SEIRD: MATLAB comparison on synthetic COVID-like data. GitHub repository. https://github.com/<user>/seird-seir-comparison-matlab
+> Mutshidzi Madzivhandila 24999709 (2025). SEIR vs SEIRD: MATLAB comparison on synthetic COVID-like data. GitHub repository. (https://github.com/tshidzi02/seird-seir-comparison-matlab.git)
